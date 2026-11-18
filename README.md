@@ -13,7 +13,6 @@
 - Implement example model loader ([#2571](https://github.com/pgmpy/pgmpy/pull/2571))
 - Fix bug of `DiscreteBayesianNetwork.copy` not preserving variable roles ([#3410](https://github.com/pgmpy/pgmpy/pull/3410))
 - In progress: time-series `CoreGraph` ([#3667](https://github.com/pgmpy/pgmpy/pull/3667), [enhancement proposal #21](https://github.com/pgmpy/enhancement_proposals/pull/21))
-- Recognized as a top contributor in the `v1.1.0` release
 #### <img src="https://github.com/pgmpy.png" width="20" height="20"/> [pgmpy/example_datasets](https://github.com/pgmpy/example_datasets)
  
 - Add `dagitty` graph files for all 108 Tübingen cause-effect pairs ([#11](https://github.com/pgmpy/example_datasets/pull/11))
