@@ -2,7 +2,6 @@
  
 - [avinash.pandurangan13@gmail.com](mailto:avinash.pandurangan13@gmail.com)
 - [linkedin.com/in/theavinash02](https://www.linkedin.com/in/theavinash02/)
-- [medium.com/@theavinash02](https://medium.com/@theavinash02)
 ### 💻 Open-Source Contributions
  
 #### <img src="https://github.com/pgmpy.png" width="20" height="20"/> [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy)
